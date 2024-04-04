@@ -19,8 +19,7 @@ Also, has been done different algorithm work with sorting and managing of any da
 
 Localized for English and Russian languages.
 *********************************************************************************************************************
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-04 at 21 29 54](https://github.com/MaksMarozau/TBank_TeamPetProject/assets/144702102/e65d6ff6-1e5c-47ab-bb8c-d412633e1b93)
+<img width="284" alt="Снимок экрана 2024-04-04 в 21 35 25" src="https://github.com/MaksMarozau/TBank_TeamPetProject/assets/144702102/86041456-d434-4bd1-bb07-290f3a0fc921">
+<img width="284" alt="Снимок экрана 2024-04-04 в 21 35 05" src="https://github.com/MaksMarozau/TBank_TeamPetProject/assets/144702102/0d902238-ffe4-4225-989a-bdca3b6bd690">
+<img width="288" alt="Снимок экрана 2024-04-04 в 21 34 52" src="https://github.com/MaksMarozau/TBank_TeamPetProject/assets/144702102/26af1c1f-e039-4f60-a820-649b10d8a3c9">
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-04 at 21 29 01](https://github.com/MaksMarozau/TBank_TeamPetProject/assets/144702102/2f409a17-9ba4-4848-bff3-dafe47cc49d4)
-
-![Simulator Screenshot - iPhone 15 Pro - 2024-04-04 at 21 29 18](https://github.com/MaksMarozau/TBank_TeamPetProject/assets/144702102/fe32f3e6-0410-4aeb-a6d1-fed7aa34c6db)
